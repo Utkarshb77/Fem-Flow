@@ -325,4 +325,3 @@ This project is for educational and personal use.
 
 ---
 
-<p align="center">Made with 💖 for women's health</p>
